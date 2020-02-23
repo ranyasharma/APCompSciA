@@ -2,7 +2,7 @@
 /**
  * Write a description of class APCircle here.
  *
- * @author (your name)
+ * @author Ranya Sharma
  * @version (a version number or a date)
  */
 public class APCircle
