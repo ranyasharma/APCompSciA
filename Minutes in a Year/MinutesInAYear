@@ -1,0 +1,21 @@
+
+/**
+ * Write a description of class MinutesinAYear here.
+ *
+ * @author (your name)
+ * @version (a version number or a date)
+ */
+public class MinutesinAYear
+{public static void main(String [] args) {
+       double minutes;
+
+        minutes = (60 * 24 * 365);
+
+
+        System.out.print("The number of minutes in a year is ");
+        System.out.println(minutes);
+
+
+
+    }
+}
